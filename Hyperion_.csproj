@@ -4,14 +4,14 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>net6.0</TargetFramework>
     <ApplicationIcon>icon2.ico</ApplicationIcon>
-    <AssemblyName>ReduxRec</AssemblyName>
-    <RootNamespace>ReduxRec</RootNamespace>
-    <Authors>ReduxLabs</Authors>
+    <AssemblyName>Hyperion</AssemblyName>
+    <RootNamespace>Hyperion</RootNamespace>
+    <Authors>Xenon</Authors>
     <PackageIcon>icon2.png</PackageIcon>
     <PackageIconUrl/>
-    <RepositoryUrl>https://github.com/ReduxxLabs/ReduxRec</RepositoryUrl>
+    <RepositoryUrl>https://github.com/XenonSolutions/Hyperion</RepositoryUrl>
     <PackageProjectUrl>https://discord.gg/daC8QUhnFP</PackageProjectUrl>
-    <Company>ReduxLabs</Company>
+    <Company>Xenon</Company>
     <Version>0.7.0</Version>
   </PropertyGroup>
 

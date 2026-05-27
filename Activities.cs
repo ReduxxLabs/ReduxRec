@@ -34,6 +34,11 @@ namespace api
 					{
 						EN_US = "Your Mom",
 						Difficulty = 0
+					},
+					new Activities.Charades.word
+					{
+						EN_US = "Xenon",
+						Difficulty = 0
 					}
 				};
 				return JsonConvert.SerializeObject(value);
